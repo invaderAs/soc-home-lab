@@ -12,7 +12,7 @@ basic SIEM operations, Windows event logging, and MITRE ATT&CK mapping.
 - Parrot OS for controlled attack simulations
 
 ## Example Detection
-![Wazuh Alert](screenshots/wazuh-dash.png)
+![Wazuh Alert](screenshots/wazuh_dash.png)
 
 The screenshot above shows a Windows security event mapped to a
 MITRE ATT&CK tactic (Defense Evasion) after enabling audit policies.
